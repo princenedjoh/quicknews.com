@@ -4,7 +4,9 @@
 	top:25%;}
 	.navbar {height:60px;}
 	.logo{font-size:30px;}
-	.signinform {padding:25%;}
+	.signinform {padding:25%;
+	margin-left:-50px;
+	margin-right:-100px;}
 	.signinform1 h1{font-size:25px;
 	color:lightblue;}
 	#donthaveaccount{
@@ -17,7 +19,7 @@
     padding: 15px;
     
     width: auto;
-    margin-top: 50%;}
+    margin-top: 40%;}
 	.signinform input{
 		font-size:15px;
 		margin-bottom:10px;

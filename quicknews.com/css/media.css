@@ -5,10 +5,10 @@
 	.navbar {height:60px;}
 	.logo{font-size:30px;}
 	.signinform {padding:25%;
-	margin-left:-50px;
+	margin-left:-100px;
 	margin-right:-100px;}
 	.signinform1 h1{font-size:25px;
-	color:green;}
+	color:lightblue;}
 	#donthaveaccount{
 	font-size:15px;}
 	.signinform form button{

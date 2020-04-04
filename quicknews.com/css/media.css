@@ -1,0 +1,31 @@
+@media(max-width:600px){
+	.menulist {display:none;}
+	.menuicon{position:absolute;
+	top:25%;}
+	.navbar {height:60px;}
+	.logo{font-size:30px;}
+	.signinform {padding:25%;}
+	.signinform1 h1{font-size:25px;
+	color:lightblue;}
+	#donthaveaccount{
+	font-size:15px;}
+	.signinform form button{
+		width:80.1px;
+		height:23px;
+	}
+	.signinform1 {
+    padding: 15px;
+    
+    width: auto;
+    margin-top: 50%;}
+	.signinform input{
+		font-size:15px;
+		margin-bottom:10px;
+	}
+	.signinform form a{
+    font-size:15px;
+	
+	
+	
+	
+}

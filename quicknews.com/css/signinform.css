@@ -1,0 +1,60 @@
+ #forgotpassword a:hover{color:gray;}
+ 
+ .signinform input{
+background:transparent;
+font-size:30px;
+color:white;
+outline:none;
+border:none;
+border-bottom:1px black solid;
+width:80%;
+height:50px;
+margin-bottom:30px;
+
+}
+@media(max-width:600px){.signinform input{font-size:20px;}}
+.signinform form h1{
+padding-left:55px;
+}
+
+.signinform form button{
+width:80px;
+height:30px;
+border-radius:50px;
+background-color:darkgray;
+outline:none;
+margin-top:20px;
+opacity:100%;
+margin-bottom:20px;
+}
+
+.signinform form button:hover{background-color:gray;}
+button:hover{background-color:lightblue;}
+
+.signinform{
+font-size:20px;
+padding-left:30%;
+padding-top:15%;
+:50px;
+
+}
+
+.signinform form a{
+text-decoration:none;
+font-size:20px;
+}
+
+#donthaveaccount{
+	color:darkgray;
+	font-size:20px;}
+.signinform1{
+	background:rgba(0, 0, 0, 0.5);
+	padding:15px;
+	width:40%;
+	padding-left:90px;
+	border-radius:10px;
+	
+	
+}	
+	
+
